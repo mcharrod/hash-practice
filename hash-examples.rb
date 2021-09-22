@@ -5,3 +5,11 @@ car = {
   is_fast: true,
   roof: "removable"
 }
+
+bunny = {
+  legs: 4,
+  has_scales: false,
+  is_fluffy: true,
+  ears: "long"
+  color: "white"
+}
