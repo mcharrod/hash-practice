@@ -13,3 +13,11 @@ bunny = {
   ears: "long"
   color: "white"
 }
+
+customer = {
+  store: "Trader Joe's",
+  is_shopping: false,
+  queue_position: 4,
+  on_phone: true,
+  is_hungry: true 
+}
